@@ -1,4 +1,3 @@
-import "../reset.css"
 import classes from "./Content.module.css"
 
 const Content = () => {

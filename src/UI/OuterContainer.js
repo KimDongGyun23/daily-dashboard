@@ -1,4 +1,3 @@
-import "../reset.css"
 import classes from "./OuterContainer.module.css"
 
 const OuterContainer = (props) => {
